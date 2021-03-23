@@ -1,15 +1,15 @@
-*.class
+*~
+.gwt
+.settings
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# IntelliJ - in case someone does not specify a separate directory #
-/out/
-*.iml
-.idea/
-/.project
+src/main/webapp/img/old
+target
+lib
+temp
+scansite4_temp
+/target/
+misc
+src/main/resources/cfg
+.classpath
+.project
+/bin/

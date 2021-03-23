@@ -1,9 +1,0 @@
-<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
-<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
-	xmlns:g="urn:import:com.google.gwt.user.client.ui">
-	<g:HTMLPanel>
-		<h2>404: File not found</h2>
-		<span id="warningMessage" class="warning" style="visibility: hidden;"></span>
-		The requested document does not exist.
-	</g:HTMLPanel>
-</ui:UiBinder> 
